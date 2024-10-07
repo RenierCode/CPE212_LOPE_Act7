@@ -1,6 +1,7 @@
 [web_servers]
 server1
 server2
+centOS
 
 [db_servers]
 centOS
