@@ -1,3 +1,6 @@
+[workstations]
+server1
+
 [web_servers]
 server1
 server2
